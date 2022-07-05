@@ -1,2 +1,2 @@
-# Display Resume on Github Page
+# Resume
 Simple HTML based Github Page for displying your resume.
